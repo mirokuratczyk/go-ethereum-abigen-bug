@@ -1,5 +1,5 @@
 # go-ethereum-abigen-bug
-Demonstrates abigen bug now fixed in go-ethereum
+Demonstrates abigen bug fixed in https://github.com/ethereum/go-ethereum/pull/31607
 
 ## Running
 
